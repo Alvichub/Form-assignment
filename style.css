@@ -1,0 +1,57 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: #f5d04e;
+    
+}
+main{
+    background-color: white;
+    padding: 20px;
+    width: 28%;
+    border-radius: 15px;
+    border: 1px solid #121212;
+    border-right: 9px solid;
+    border-bottom: 9px solid ;
+    margin: auto;
+    justify-content: center;
+    height:  526.812px;
+    align-items: center;
+    margin-top: 50px;
+}
+*{
+    box-sizing: border-box;
+}
+.section1 img{
+    border-radius: 10px;
+}
+
+button{
+    background-color: #f5d04e;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 800;
+    margin-top: 8px;
+}
+button,h1,.Greg{
+    color: #121212;
+}
+
+.Greg{
+    position: absolute;
+    bottom:105px;
+    margin-left: 10px;
+    font-weight: 700;
+}
+p{
+    color: #808080;
+    width: 300px;
+    
+}
+h3{
+    font-size: 0.75rem;
+
+}
+.avatar{
+    height: 40px;
+}
